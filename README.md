@@ -4,7 +4,7 @@ A ready-to-use **Linux 6.18** kernel for the **Redmi Note 12 Pro 5G / POCO
 X5 Pro 5G** (`redwood`, SM7325), for building a ROM. Nothing here has to be
 compiled: the ROM build just copies these files in.
 
-The kernel is Android Common Kernel `android17-6.18` (`6.18.39-Suvkernel`)
+The kernel is Android Common Kernel `android17-6.18` (`6.18.63-Suvkernel`)
 with Qualcomm's lahaina platform carried over from 6.12, built from the
 `main` branch of
 [redwood-6.18-kernel](https://github.com/suvojeet-sengupta/redwood-6.18-kernel).
